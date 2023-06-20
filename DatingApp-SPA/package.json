@@ -23,7 +23,7 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "bootstrap": "^5.0.0-beta1",
     "rxjs": "~6.6.0",
-    "tslib": "^2.0.0",
+    "tslib": "^2.5.2",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
